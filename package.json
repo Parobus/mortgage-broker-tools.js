@@ -1,0 +1,21 @@
+{
+  "name": "gql-ws-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "i386_64",
+  "license": "MIT",
+  "dependencies": {
+    "@absinthe/socket": "^0.2.1",
+    "graphql": "^16.3.0",
+    "graphql-ws": "^5.7.0",
+    "lodash": "^4.17.21",
+    "phoenix": "^1.6.6",
+    "phoenix-channels": "^1.0.0",
+    "ws": "^8.5.0"
+  }
+}
